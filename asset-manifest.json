@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portofolio_react/static/css/main.6b616d26.css",
-    "main.js": "/portofolio_react/static/js/main.e4a32ee3.js",
+    "main.js": "/portofolio_react/static/js/main.8ff7b73d.js",
     "static/media/pranav.png": "/portofolio_react/static/media/pranav.902411a3a595d06f5026.png",
     "index.html": "/portofolio_react/index.html",
     "main.6b616d26.css.map": "/portofolio_react/static/css/main.6b616d26.css.map",
-    "main.e4a32ee3.js.map": "/portofolio_react/static/js/main.e4a32ee3.js.map"
+    "main.8ff7b73d.js.map": "/portofolio_react/static/js/main.8ff7b73d.js.map"
   },
   "entrypoints": [
     "static/css/main.6b616d26.css",
-    "static/js/main.e4a32ee3.js"
+    "static/js/main.8ff7b73d.js"
   ]
 }
